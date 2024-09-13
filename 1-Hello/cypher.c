@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
-void cyper(char* msg, int sft) {
+void cypher(char* msg, int sft) {
 	char ch;
 	int i;
 
